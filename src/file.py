@@ -126,7 +126,7 @@ def test(continues=True, ):
         N/A
 
     Returns
-        contents of the provided file, if it exists.
+        Status of the tests, asserts false if needed.
     """
     
     def print_current_dir_contents(string):
